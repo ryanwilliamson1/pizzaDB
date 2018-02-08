@@ -1,0 +1,20 @@
+.page-header {
+	font-size: 200%;
+	color:red;
+	padding-left: 50px;
+}
+.page-header img {
+	height: 100px;
+	width: 150px;
+}
+.list-inline-item {
+	color:red;
+	padding-right: 0px;
+}
+.btn {
+	background:red;
+}
+.col-md-7 {
+	padding-top: 20px;
+	padding-left: 30px;
+}
